@@ -1,0 +1,50 @@
+a {
+    border: black;
+    background-color: rgb(16, 16, 77);
+    color: rgb(234, 234, 191);
+    width: 250px;
+    margin: 10px;
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+.a2 {
+    color: rgb(60, 7, 60);
+    border: none;
+    background-color: white;
+}
+
+.list {
+    display: grid;
+    justify-content: center;
+}
+
+.headline {
+    text-align: center;
+    color: orange;
+}
+
+img {
+    width: 200px;
+    align-items: center;
+}
+
+.list2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.barlow-condensed-extralight {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+
+  .barlow-condensed-bold {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }

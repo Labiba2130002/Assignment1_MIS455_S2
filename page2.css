@@ -1,0 +1,46 @@
+.headline {
+    color: rgb(12, 12, 75);
+}
+
+.headline2 {
+    color: orange;
+}
+
+img {
+    width: 250px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    border: 2px solid rgb(203, 9, 9);
+    background-color:rgb(248, 2, 2);
+    color: white;
+    margin: 25px;
+}
+
+.a2 {
+    color: rgb(60, 7, 60);
+    border: none;
+    background-color: white;
+}
+
+.align {
+    text-align: right;
+}
+
+.barlow-condensed-extralight {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+
+  .barlow-condensed-bold {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }

@@ -1,0 +1,40 @@
+p {
+    border: 2px solid rgb(237, 237, 237);
+    background-color: rgb(10, 19, 74);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 4px 3px grey;
+    color:aliceblue;
+}
+
+.star {
+    color: yellow;
+}
+
+.headline {
+    text-align: center;
+    color: orange;
+}
+
+.content1 {
+    display: flex; 
+    justify-content: space-evenly;
+}
+
+.content2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.barlow-condensed-bold {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .dancing-script {
+    font-family: "Dancing Script", cursive;
+    font-weight: 200;
+    font-style: normal;
+  }
